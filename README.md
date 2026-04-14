@@ -42,3 +42,4 @@ make
 
 ## Auteur
 Do Nguyen Hoang Minh — BUT1 Informatique, IUT d'Orsay
+Coretin Fauveau — BUT1 Informatique, IUT d'Orsay
