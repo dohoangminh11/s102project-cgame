@@ -1,0 +1,135 @@
+# depslib dependency file v1.0
+1764686394 source:c:\users\ndo\downloads\s102_projet_codeblocks\s102\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+
+1764078579 source:c:\users\ndo\downloads\s102_projet_codeblocks\s102\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+
+1764689537 source:c:\users\ndo\downloads\s102_projet_codeblocks\s102\src\main.cpp
+	<vector>
+	"Moteur.h"
+	"Image.h"
+	"Personnage.h"
+
+1764689295 source:c:\users\ndo\downloads\s102_projet_codeblocks\s102\src\personnage.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+	"Personnage.h"
+
+1765289210 source:c:\users\ndo\downloads\s102\s102\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+
+1765292933 source:c:\users\ndo\downloads\s102\s102\src\main.cpp
+	<vector>
+	"Moteur.h"
+	"Image.h"
+	"Personnage.h"
+
+1765289210 source:c:\users\ndo\downloads\s102\s102\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+
+1765291784 source:c:\users\ndo\downloads\s102\s102\src\personnage.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+	"Personnage.h"
+
+1765293765 source:c:\users\cfauvea\downloads\s102\s102\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+
+1765294995 source:c:\users\cfauvea\downloads\s102\s102\src\main.cpp
+	<vector>
+	"Moteur.h"
+	"Image.h"
+	"Personnage.h"
+
+1765293765 source:c:\users\cfauvea\downloads\s102\s102\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+
+1765294899 source:c:\users\cfauvea\downloads\s102\s102\src\personnage.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+	"Personnage.h"
+
+1765293765 source:c:\users\cfauvea\downloads\s102\s102-ennemie\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+
+1765354641 source:c:\users\cfauvea\downloads\s102\s102-ennemie\src\main.cpp
+	<vector>
+	"Moteur.h"
+	"Image.h"
+	"Personnage.h"
+
+1765293765 source:c:\users\cfauvea\downloads\s102\s102-ennemie\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+
+1765356724 source:c:\users\cfauvea\downloads\s102\s102-ennemie\src\personnage.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+	"Personnage.h"
+
+1765293764 source:c:\users\user\downloads\s102-ennemie\s102-ennemie\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+
+1768050223 source:c:\users\user\downloads\s102-ennemie\s102-ennemie\src\main.cpp
+	<vector>
+	"Moteur.h"
+	"Image.h"
+	"Personnage.h"
+
+1765293764 source:c:\users\user\downloads\s102-ennemie\s102-ennemie\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+
+1768045787 source:c:\users\user\downloads\s102-ennemie\s102-ennemie\src\personnage.cpp
+	<SDL_image.h>
+	<exception>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	"Image.h"
+	"Personnage.h"
+
+1765293764 source:c:\users\user\downloads\s102-ennemie\s102-tuile\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+
+1765293764 source:c:\users\user\downloads\s102-ennemie\s102-tuile\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+
+1768250963 source:c:\users\user\downloads\s102-ennemie\s102-tuile\src\main.cpp
+	<vector>
+	"Moteur.h"
+	"Image.h"
+	"Personnage.h"
+
+1768251315 source:c:\users\user\downloads\s102-ennemie\s102-tuile\src\personnage.cpp
+	<SDL_image.h>
+	<exception>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	"Image.h"
+	"Personnage.h"
+
